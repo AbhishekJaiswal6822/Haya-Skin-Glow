@@ -1,0 +1,96 @@
+[
+
+  {
+    "id": 1,
+    "name": "Haya Yellow Rose Candle",
+    "category": "Candle",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/yellow-candle.jpg",
+    "description": "Elegant rose-shaped candle made with premium wax for a long, clean burn. Creates a warm and calming glow — perfect for home décor, meditation, or gifting."
+  },
+  {
+    "id": 2,
+    "name": "Haya Foaming Facewash",
+    "category": "Skincare",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/foaming-facewash.jpg",
+    "description": "Gentle foaming facewash with a built-in applicator brush for deep cleansing. Removes dirt, oil, and impurities while brightening the skin. Suitable for all skin types including oily, dry, and combination skin."
+  },
+  {
+    "id": 3,
+    "name": "Haya Glow Moisturizing Cream",
+  "category": "Skincare",
+  "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/glowing-cream.jpg",
+    "description": "A nourishing face cream enriched with natural extracts to deeply hydrate, brighten, and restore your skin’s natural glow. Perfect for daily use and suitable for all skin types."
+
+  },
+  {
+   "id": 4,
+  "name": "Haya Night Cream",
+  "category": "Skincare",
+  "brand": "HAYA SKIN GLOW",
+  "price": 399.99,
+  "stock": 18,
+    "image": "../public/images/haya-images/night-cream.jpg",
+     "description": "A rich and nourishing night cream designed to repair, hydrate, and rejuvenate your skin while you sleep. Infused with natural extracts to reduce fine lines and restore a youthful glow."
+  },
+  {
+    "id": 5,
+    "name": "Haya Night Cream",
+    "category": "Skincare",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/nioht-cream.jpg",
+    "description": "A rich and nourishing night cream designed to repair, hydrate, and rejuvenate your skin while you sleep. Enriched with natural extracts that help reduce fine lines and restore a youthful glow overnight"
+  },
+  {
+    "id":6,
+    "name": "Haya Sunscreen Lotion SPF 50",
+    "category": "Skincare",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/sunscreem-lotion.jpg",
+    "description": "A lightweight sunscreen lotion with SPF 50 and broad-spectrum UVA/UVB protection. Enriched with aloe vera to soothe and hydrate skin while shielding it from sun damage."
+  },
+  
+  {
+    "id": 7,
+    "name": "Haya Vitamin C Serum",
+    "category": "Skincare",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/vitamin-c-serum.jpg",
+    "description": "A lightweight and powerful Vitamin C serum designed to brighten skin, fade dark spots, and boost collagen production. Enriched with orange extracts for a natural glow and antioxidant protection."
+  },
+  {
+    "id":8,
+    "name": "Haya Herbal Hair Mask",
+    "category": "Haircare",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/whitebox-cream.jpg",
+    "description": "A deeply nourishing herbal hair mask formulated to strengthen hair, reduce hair fall, and restore natural shine. Enriched with botanical extracts for smooth, healthy, and manageable hair."
+  },
+  {
+    "id": 9,
+    "name": "Haya Body Whitening Lotion",
+    "category": "Skincare",
+    "brand": "HAYA SKIN GLOW",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../public/images/haya-images/whitening-serum.jpg",
+    "description": "A lightweight body whitening lotion that hydrates and helps brighten dull, uneven skin. Designed for daily use to promote a radiant and even-toned complexion."
+  }
+  
+]
